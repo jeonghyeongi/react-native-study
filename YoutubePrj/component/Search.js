@@ -20,7 +20,7 @@ export default class Search extends Component<Props> {
      };
   }
 
-   url = "https://www.googleapis.com/youtube/v3/search?key=AIzaSyC-BRSuuKm80Bq0JZy5zeznKEkrvGjoSMU&part=snippet&maxResults=10&q=";
+   url = "https://www.googleapis.com/youtube/v3/search?key=xcvbvcc&part=snippet&maxResults=10&q=";
 
     _onPressButton = () => { 
         this._getYoutubeApi();
